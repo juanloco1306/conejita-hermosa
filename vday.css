@@ -25,10 +25,10 @@ body {
 }
 
 .inside_img {
-    width: 500px;
+    width: 600px;
     margin-right: -50px;
     margin-left: -50px; 
-    margin-top: 100px;
+    margin-top: 50px;
     position: relative; 
 }
 
@@ -42,7 +42,7 @@ body {
     color: #A60657;
     font-family: 'Brush Script MT', cursive;
     font-size: 45px;
-    margin-top: 150px;
+    margin-top: 100px;
 }
 
 .front_card {
@@ -80,9 +80,9 @@ body {
 .valentines_card:hover .front_img {
     display: none;
 }
-.inside_card audio {
+/*.inside_card audio {
     display: flex;
     margin-left: 200px;
     margin-right: 60px;
     margin-top: 30px;
-}
+}*/
